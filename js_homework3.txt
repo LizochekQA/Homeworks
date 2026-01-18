@@ -1,0 +1,6 @@
+function pow(x, y) {
+  var result = x ** y;
+  return result;
+}
+
+console.log(pow(2, 3)); // 8
