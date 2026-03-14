@@ -12,7 +12,7 @@ var arr = [
     {
         userName: "Andrii",
         lastName: "",
-        email: "andrii@mail.ru" // Нам такі не підходять
+        email: "andrii@mail.ru"
     },
 ];
 
